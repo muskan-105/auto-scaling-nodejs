@@ -1,2 +1,2 @@
 # auto-scaling-nodejs
-Application workload by autoscaling
+Autoscaling the nodejs application
